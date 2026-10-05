@@ -29,10 +29,10 @@ The Excel dashboard includes:
 
 ## 🔍 Key Insights
 
-* **Personal Care** had the highest delay rate: **13.75%**
-* **Snacks** had the lowest delay rate: **13.05%**
-* Average rating for delayed orders: **3.22**
-* Average rating for on-time orders: **3.24**
+Grocery has the highest delay rate: 13.82%.
+Beverages has the lowest: 13.52%.
+The difference is only 0.30 percentage points, suggesting that delays are not concentrated in one particular category.
+Approximately 13,700–13,800 orders per 100,000 appear to be delayed based on these category rates.
 
 
 
