@@ -30,9 +30,13 @@ The Excel dashboard includes:
 ## 🔍 Key Insights
 
 Grocery has the highest delay rate: 13.82%.
+
 Beverages has the lowest: 13.52%.
+
 The difference is only 0.30 percentage points, suggesting that delays are not concentrated in one particular category.
+
 Approximately 13,700–13,800 orders per 100,000 appear to be delayed based on these category rates.
+
 
 
 
